@@ -1,3 +1,5 @@
+<img src="Snowflake_Logo.svg" width="200">
+
 Snowflake Intelligence Demo: Yokohama Tires
 
 This repo contains a repeatable, end-to-end demo showcasing Snowflake Intelligence with natural language over synthetic sales and tire usage data for Yokohama Tires.
