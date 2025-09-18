@@ -1,3 +1,5 @@
+<img src="Snowflake_Logo.svg" width="200">
+
 Snowflake Intelligence Agent Setup (Yokohama Tires)
 
 Use this guide to connect Snowflake Intelligence using a Semantic View plus supporting analysis views.
